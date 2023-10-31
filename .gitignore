@@ -1,0 +1,6 @@
+# Järjestys on merkitsevä - halutaan alihakemistojen *.tmp mukaan.
+!/**/*.tmp
+/*.tmp
+
+__pycache__
+.pytest_cache
