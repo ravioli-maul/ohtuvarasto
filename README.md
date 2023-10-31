@@ -1,3 +1,1 @@
 # ohtuvarasto
-OhTu-kurssin repositorio
-
