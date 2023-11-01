@@ -82,3 +82,4 @@ class TestVarasto(unittest.TestCase):
         tulos = 'saldo = 5, vielä tilaa 5'
 
         self.assertEqual(str(self.varasto), tulos)
+# T11 muutos
